@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31.88 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1768;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 17.63px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-913.1" y1="538.24" x2="-912.75" y2="537.81" gradientTransform="translate(29115.55 -39136.26) scale(31.88 72.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#41d1ff"/>
+      <stop offset="1" stop-color="#bd34fe"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="m31.77,30.63L16.8.47c-.31-.62-1.1-.63-1.42,0L.11,30.63c-.34.68.17,1.49.85,1.36l14.99-3.02c.1-.02.19-.02.29,0l14.68,3.01c.68.14,1.19-.67.86-1.35Z"/>
+  <text class="cls-1" transform="translate(2.29 24.72) rotate(-1.92) scale(1.02 1)"><tspan x="0" y="0" xml:space="preserve">  C </tspan></text>
+</svg>
